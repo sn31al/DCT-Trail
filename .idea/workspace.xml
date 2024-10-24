@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf8ae135-dcd4-4e47-a299-de6421bd62d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Major P.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/MotherDaughter_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/Table_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/Tempete30_qcif_130.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/akiyo30_qcif_300.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/bridge-close_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/bridge-far_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/bus_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/carphone30_qcif_90.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/claire_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/coastguard_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/container_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/football_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/foreman30_qcif_ori90.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/grandma_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/hall_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/highway_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/miss-america_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/mobile_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/news_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/salesman_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/silent_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/soccer_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YUV/suzie_qcif.yuv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iq_measures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_multiple_embedding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_multiple_extraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_multiple_payload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psnrhma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psnrhvsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq_frames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssim_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuv_compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuv_export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yuv_import.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nt6IiF42zYJvmhpKlJGZWrcWcA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.iq_measures.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.yuv_compare.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Admin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf8ae135-dcd4-4e47-a299-de6421bd62d1" name="Changes" comment="" />
+      <created>1729779947564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729779947564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
